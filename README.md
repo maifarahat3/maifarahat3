@@ -1,4 +1,4 @@
-#  Mai Farahat 👋
+# Mai Farahat 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=AI+%26+ML+Engineer;Deep+Learning+Specialist;LLM+%26+RAG+Architect;Generative+AI+Developer" alt="Typing SVG" />
@@ -24,7 +24,7 @@ AI Engineer specialized in building and developing intelligent systems using **D
 ---
 
 ### 🤖 Large Language Models & Generative AI
-*   **Frameworks & Orchestration:** ![LangChain](https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow?style=flat-square).
+*   **Frameworks & APIs:** ![LangChain](https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f55036?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square).
 *   **AI Agents:** Developing intelligent agents capable of executing complex tasks and connecting software tools.
 *   **Generative Models:** Experience working with **Llama 3** and **Stable Diffusion** for text and image generation.
 *   **Techniques:** `RAG Architecture`, `Prompt Engineering`, `Fine-tuning (LoRA/QLoRA)`.
@@ -39,9 +39,9 @@ AI Engineer specialized in building and developing intelligent systems using **D
 ---
 
 ### 💻 Data & Languages
-*   **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square).
+*   **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white).
 *   **Data Handling:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy).
-*   **Databases:** ![VectorDB](https://img.shields.io/badge/Vector_DB-Chroma/FAISS-blue?style=flat-square) (Efficient storage and retrieval for RAG projects).
+*   **Databases & Caching:** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![VectorDB](https://img.shields.io/badge/Vector_DB-Chroma/FAISS-blue?style=flat-square).
 
 ---
 
