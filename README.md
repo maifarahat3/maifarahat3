@@ -1,7 +1,7 @@
 # Mai Farahat 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=AI+%26+ML+Engineer;Deep+Learning+Specialist;LLM+%26+RAG+Architect;Generative+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=AI+%26+ML+Engineer" alt="Typing SVG" />
 </div>
 
 ---
