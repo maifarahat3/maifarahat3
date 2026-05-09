@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Professional Overview
-مهندس متخصص في **الذكاء الاصطناعي**، أركز على بناء وتطوير الأنظمة الذكية باستخدام **Deep Learning** ونشر نماذج اللغات الكبيرة (**LLMs**). لدي خبرة في تحويل الأبحاث التقنية إلى تطبيقات عملية قابلة للتوسع.
+AI Engineer specialized in building and developing intelligent systems using **Deep Learning** and deploying Large Language Models (**LLMs**). I have experience transforming technical research into scalable, practical applications.
 
 ---
 
@@ -25,14 +25,14 @@
 
 ### 🤖 Large Language Models & Generative AI
 *   **Frameworks & Orchestration:** ![LangChain](https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow?style=flat-square).
-*   **AI Agents:** تطوير وكلاء ذكيين (AI Agents) قادرين على تنفيذ المهام المعقدة وربط الأدوات البرمجية.
-*   **Generative Models:** خبرة في التعامل مع **Llama 3** و **Stable Diffusion** لتوليد النصوص والصور.
-*   **Techniques:** `RAG Architecture` `Prompt Engineering` `Fine-tuning (LoRA/QLoRA)`.
+*   **AI Agents:** Developing intelligent agents capable of executing complex tasks and connecting software tools.
+*   **Generative Models:** Experience working with **Llama 3** and **Stable Diffusion** for text and image generation.
+*   **Techniques:** `RAG Architecture`, `Prompt Engineering`, `Fine-tuning (LoRA/QLoRA)`.
 
 ---
 
 ### 🚀 MLOps & Production Deployment
-*   **Containerization:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) (نشر وتغليف تطبيقات الذكاء الاصطناعي لضمان استقرار البيئة البرمجية).
+*   **Containerization:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) (Deploying and packaging AI applications to ensure environment stability).
 *   **API & Serving:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Gradio](https://img.shields.io/badge/Gradio-FF9D00?style=flat-square).
 *   **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Antigravity](https://img.shields.io/badge/Antigravity_IDE-blueviolet?style=flat-square).
 
@@ -41,21 +41,14 @@
 ### 💻 Data & Languages
 *   **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square).
 *   **Data Handling:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy).
-*   **Databases:** ![VectorDB](https://img.shields.io/badge/Vector_DB-Chroma/FAISS-blue?style=flat-square) (تخزين واسترجاع البيانات بكفاءة لمشاريع الـ RAG).
+*   **Databases:** ![VectorDB](https://img.shields.io/badge/Vector_DB-Chroma/FAISS-blue?style=flat-square) (Efficient storage and retrieval for RAG projects).
 
 ---
 
 ### 🏗 Featured Projects
-*   **Juris (Legal-Tech)**: بناء نظام استشارات قانونية يعتمد على **RAG Architecture** و **FastAPI**.
-*   **GenoSpot (Ed-Tech)**: منصة تعليمية مبتكرة لبيولوجيا الثانوية العامة تعتمد على الـ Gamification والمحتوى التفاعل الذكي.
-*   **Smart Behavioral Platform**: مشروع متقدم لتحليل البيانات السلوكية واستخدام **Machine Learning** لتصنيف الأنماط والمخاطر.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maifarahat3&show_icons=true&theme=tokyonight" alt="Stats" />
-</div>
+*   **Juris (Legal-Tech)**: Building a legal consultation system based on **RAG Architecture** and **FastAPI**.
+*   **GenoSpot (Ed-Tech)**: Innovative educational platform for high school biology based on gamification and intelligent interactive content.
+*   **Smart Behavioral Platform**: Advanced project for behavioral data analysis using **Machine Learning** to classify patterns and security risks.
 
 ---
 
